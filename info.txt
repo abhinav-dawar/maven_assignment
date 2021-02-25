@@ -1,0 +1,1 @@
+Here reference is taken from multiple resources such as tutorialspoint.com, javatpoint.com and also the maven official site. Also, the second question was found on an article in medium site.
